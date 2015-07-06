@@ -1,0 +1,2 @@
+[18-Feb-2015 01:46:46 America/Caracas] PHP Warning:  Invalid argument supplied for foreach() in /home/dannyysu/public_html/portal/media/widgetkit/widgets/map/styles/default/template.php on line 14
+[18-Feb-2015 01:46:46 America/Caracas] PHP Warning:  array_merge(): Argument #2 is not an array in /home/dannyysu/public_html/portal/media/widgetkit/widgets/map/styles/default/template.php on line 27

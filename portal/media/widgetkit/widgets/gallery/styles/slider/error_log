@@ -1,0 +1,10 @@
+[27-Feb-2015 21:14:30 America/Caracas] PHP Warning:  array_merge(): Argument #2 is not an array in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/slider/template.php on line 17
+[27-Feb-2015 21:14:30 America/Caracas] PHP Fatal error:  Call to a member function images() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/slider/template.php on line 19
+[28-Feb-2015 04:20:08 America/Caracas] PHP Warning:  array_merge(): Argument #2 is not an array in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/slider/template.php on line 17
+[28-Feb-2015 04:20:08 America/Caracas] PHP Fatal error:  Call to a member function images() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/slider/template.php on line 19
+[28-Feb-2015 10:11:50 America/Caracas] PHP Warning:  array_merge(): Argument #2 is not an array in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/slider/template.php on line 17
+[28-Feb-2015 10:11:50 America/Caracas] PHP Fatal error:  Call to a member function images() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/slider/template.php on line 19
+[28-Feb-2015 16:10:46 America/Caracas] PHP Warning:  array_merge(): Argument #2 is not an array in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/slider/template.php on line 17
+[28-Feb-2015 16:10:46 America/Caracas] PHP Fatal error:  Call to a member function images() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/slider/template.php on line 19
+[28-Feb-2015 22:07:44 America/Caracas] PHP Warning:  array_merge(): Argument #2 is not an array in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/slider/template.php on line 17
+[28-Feb-2015 22:07:44 America/Caracas] PHP Fatal error:  Call to a member function images() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/slider/template.php on line 19

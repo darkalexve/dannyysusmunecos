@@ -1,0 +1,6 @@
+[27-Feb-2015 16:35:38 America/Caracas] PHP Warning:  array_merge(): Argument #2 is not an array in /home/dannyysu/public_html/portal/media/widgetkit/widgets/slideshow/styles/showcase_box/template.php on line 16
+[27-Feb-2015 16:35:38 America/Caracas] PHP Warning:  array_chunk() expects parameter 1 to be array, null given in /home/dannyysu/public_html/portal/media/widgetkit/widgets/slideshow/styles/showcase_box/template.php on line 18
+[27-Feb-2015 16:35:38 America/Caracas] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/dannyysu/public_html/portal/media/widgetkit/widgets/slideshow/styles/showcase_box/template.php on line 20
+[27-Feb-2015 16:35:38 America/Caracas] PHP Warning:  Invalid argument supplied for foreach() in /home/dannyysu/public_html/portal/media/widgetkit/widgets/slideshow/styles/showcase_box/template.php on line 20
+[27-Feb-2015 16:35:38 America/Caracas] PHP Warning:  Invalid argument supplied for foreach() in /home/dannyysu/public_html/portal/media/widgetkit/widgets/slideshow/styles/showcase_box/template.php on line 32
+[27-Feb-2015 16:35:38 America/Caracas] PHP Warning:  Invalid argument supplied for foreach() in /home/dannyysu/public_html/portal/media/widgetkit/widgets/slideshow/styles/showcase_box/template.php on line 50

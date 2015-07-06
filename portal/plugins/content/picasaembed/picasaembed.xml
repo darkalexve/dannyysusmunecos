@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.7" type="plugin" group="content">
+	<name>Content - Picasa Album Embedding</name>
+	<author>Lorenzo Carbonell, Andy Gaskell</author>
+	<creationDate>August 2010</creationDate>
+	<copyright>Copyright (C) 2010 Lorenzo Carbonell. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL</license>
+	<authorEmail>lorenzo.carbonell.cerezo@gmail.com</authorEmail>
+	<authorUrl>www.atareao.es</authorUrl>
+	<version>1.7</version>
+	<description>With this plugin, you can embed Picasa albums into articles including in the article the key, picasa_albumid=[album_id], where [album_id] is the identification for the album.</description>
+    
+    <!-- Joomla! 1.6 uses fieldset -->
+	<config>
+		<fields name="params">
+		  <fieldset name="basic">           
+            <field name="user" type="text" label="User" description="Set the user name where the Picasa album is stored." />
+            <field name="width" type="text" default="550" label="Width" description="Set the width of the Picasa album. The default width is 550 pixels." />
+            <field name="height" type="text" default="445" label="Height" description="Set the height of the Picasa album. The default width is 445 pixels." />
+            <field name="interval" type="text" default="7" label="Interval" description="Interval of time betwwen two images in the slideshow." />
+            <field name="backgroundcolor" type="text" default="000000" label="Backgroud Color" description="The background color. The default color is black (000000)."/>
+            <field name="captions" type="radio" size= "1" default="0" label="Show captions?" description="Shows the caption of the image at the bottom of the presentarion">
+                <option value="1">Yes</option>
+                <option value="0">No</option>
+            </field>
+            <field name="autoplay" type="radio" size= "1" default="0" label="Autoplay?" description="Play automatically the slideshow">
+                <option value="1">Yes</option>
+                <option value="0">No</option>
+            </field>
+            
+            <field name="language" type="list" size= "1" default="en" label="Preferred language?" description="Preferred language">
+                <option value="en">English</option>
+                <option value="es">Spanish</option>
+                <option value="fr">Frech</option>
+            </field>            
+		  </fieldset>
+		</fields>
+	</config>
+    
+    <!-- Joomla! 1.5 uses params -->
+	<params>
+		<param name="user" type="text" label="User" description="Set the user name where the Picasa album is stored." />
+		<param name="width" type="text" default="550" label="Width" description="Set the width of the Picasa album. The default width is 550 pixels." />
+		<param name="height" type="text" default="445" label="Height" description="Set the height of the Picasa album. The default width is 445 pixels." />
+		<param name="interval" type="text" default="7" label="Interval" description="Interval of time betwwen two images in the slideshow." />
+		<param name="backgroundcolor" type="text" default="000000" label="Backgroud Color" description="The background color. The default color is black (000000)."/>
+		<param name="captions" type="radio" size= "1" default="0" label="Show captions?" description="Shows the caption of the image at the bottom of the presentarion">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+		<param name="autoplay" type="radio" size= "1" default="0" label="Autoplay?" description="Play automatically the slideshow">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+		
+		<param name="language" type="list" size= "1" default="en" label="Preferred language?" description="Preferred language">
+			<option value="en">English</option>
+			<option value="es">Spanish</option>
+			<option value="fr">Frech</option>
+		</param>		
+	</params>    
+    
+	<files>
+		<filename plugin="picasaembed">picasaembed.php</filename>
+	</files>
+</extension>

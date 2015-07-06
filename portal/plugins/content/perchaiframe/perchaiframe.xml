@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.6" type="plugin" group="content" method="upgrade">
+        <name>Content - perchaiframe</name>
+	<author>Cristian Grañó</author>
+	<creationDate>Abril 2010</creationDate>
+	<copyright>Copyright (C) 2009 Cristian Grañó. All rights reserved.</copyright>
+	<license>GPL</license>
+	<authorEmail>cristian@percha.com</authorEmail>
+	<authorUrl>www.percha.com</authorUrl>
+	<version>0.2</version>
+	<description> <![CDATA[You can override any parameters such src, width, height, scrolling, frameborder, name, align info in the first. {iframe ...} ]]></description> 
+	<files>
+		<filename plugin="perchaiframe">perchaiframe.php</filename>
+	</files> 
+</extension>
+

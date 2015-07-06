@@ -1,0 +1,3 @@
+[18-Feb-2015 08:57:39 America/Caracas] PHP Fatal error:  Call to a member function render() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/map/layouts/edit.php on line 3
+[18-Feb-2015 10:03:04 America/Caracas] PHP Fatal error:  Call to a member function link() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/map/layouts/dashboard.php on line 28
+[20-Feb-2015 21:26:15 America/Caracas] PHP Fatal error:  Call to a member function xpath() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/map/layouts/item.php on line 20

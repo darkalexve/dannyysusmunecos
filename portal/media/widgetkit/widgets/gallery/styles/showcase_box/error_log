@@ -1,0 +1,10 @@
+[18-Feb-2015 21:23:18 America/Caracas] PHP Warning:  array_merge(): Argument #2 is not an array in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/showcase_box/template.php on line 19
+[18-Feb-2015 21:23:18 America/Caracas] PHP Fatal error:  Call to a member function images() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/showcase_box/template.php on line 22
+[19-Feb-2015 03:28:05 America/Caracas] PHP Warning:  array_merge(): Argument #2 is not an array in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/showcase_box/template.php on line 19
+[19-Feb-2015 03:28:05 America/Caracas] PHP Fatal error:  Call to a member function images() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/showcase_box/template.php on line 22
+[19-Feb-2015 09:14:19 America/Caracas] PHP Warning:  array_merge(): Argument #2 is not an array in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/showcase_box/template.php on line 19
+[19-Feb-2015 09:14:19 America/Caracas] PHP Fatal error:  Call to a member function images() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/showcase_box/template.php on line 22
+[19-Feb-2015 15:37:47 America/Caracas] PHP Warning:  array_merge(): Argument #2 is not an array in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/showcase_box/template.php on line 19
+[19-Feb-2015 15:37:47 America/Caracas] PHP Fatal error:  Call to a member function images() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/showcase_box/template.php on line 22
+[20-Feb-2015 03:46:00 America/Caracas] PHP Warning:  array_merge(): Argument #2 is not an array in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/showcase_box/template.php on line 19
+[20-Feb-2015 03:46:00 America/Caracas] PHP Fatal error:  Call to a member function images() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/styles/showcase_box/template.php on line 22

@@ -1,0 +1,1 @@
+[18-Feb-2015 12:04:19 America/Caracas] PHP Fatal error:  Call to a member function link() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/mediaplayer/layouts/dashboard.php on line 29

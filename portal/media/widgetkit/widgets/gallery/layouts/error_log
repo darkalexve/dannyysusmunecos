@@ -1,0 +1,2 @@
+[19-Feb-2015 20:39:23 America/Caracas] PHP Fatal error:  Call to a member function render() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/layouts/edit.php on line 3
+[20-Feb-2015 23:29:57 America/Caracas] PHP Fatal error:  Call to a member function link() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/gallery/layouts/dashboard.php on line 28

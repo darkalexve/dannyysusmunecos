@@ -1,0 +1,2 @@
+[23-Feb-2015 22:02:44 America/Caracas] PHP Fatal error:  Call to a member function link() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/accordion/layouts/dashboard.php on line 28
+[26-Feb-2015 04:53:45 America/Caracas] PHP Fatal error:  Call to a member function render() on a non-object in /home/dannyysu/public_html/portal/media/widgetkit/widgets/accordion/layouts/edit.php on line 3

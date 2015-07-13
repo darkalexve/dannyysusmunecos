@@ -7,7 +7,6 @@
 
 /* Core Settings */
 html {margin-bottom: 1px;height: 100%;}
-@font-face { font-family: "waltographUI"; src: url(http://www.dannyysusmunecos.com.ve/fonts/waltographUI.ttf) format("truetype"); }
 body, .button, button.validate {height: 100%;margin-bottom: 1px;font-family: 'PT Sans',waltographUI,Helvetica,Arial,sans-serif;}
 .component-body {min-width: 320px;height: auto;}
 ul {list-style-image: none;}
@@ -26,6 +25,7 @@ a {transition: color 0.1s ease-in;}
 
 /* Fonts */
 @font-face {font-family: 'PTSansRegular';src: url('../fonts/pts55f-webfont.eot');src: url('../fonts/pts55f-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/pts55f-webfont.woff') format('woff'),url('../fonts/pts55f-webfont.ttf') format('truetype'),url('../fonts/pts55f-webfont.svg#PTSansRegular') format('svg');font-weight: normal;font-style: normal;}
+@font-face { font-family: 'waltographUI'; src: url(../fonts/waltographUI.ttf) format("truetype"); }
 @font-face {font-family: 'PTSansBold';src: url('../fonts/pts75f-webfont.eot');src: url('../fonts/pts75f-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/pts75f-webfont.woff') format('woff'),url('../fonts/pts75f-webfont.ttf') format('truetype'),url('../fonts/pts75f-webfont.svg#PTSansRegular') format('svg');font-weight: normal;font-style: normal;}
 .font-family-fresco {font-family: 'PTSansRegular', helvetica, arial, sans-serif;}
 

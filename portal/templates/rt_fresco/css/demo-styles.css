@@ -25,7 +25,7 @@
 /* SubPages Typography */
 .promo1, .promo2, .promo3, .promo4 {display: block; font-family: waltographUI,Helvetica,Arial,sans-serif;}
 .promo2, .promo3 {font-weight: 100; letter-spacing: -1px;}
-.promo1 {font-weight: 100; font-size: 70px; letter-spacing: -3px; line-height: 110px;font-family: 'PT Sans',waltographUI,Helvetica,Arial,sans-serif;text-shadow: 1px 20px 70px rgba(5, 5, 5, 0.9);color: #FFFFFF;}
+.promo1 {font-weight: 100; font-size: 70px; letter-spacing: -3px; line-height: 110px;font-family: 'waltographUI',Helvetica,Arial,sans-serif;text-shadow: 1px 20px 70px rgba(5, 5, 5, 0.9);color: #FFFFFF;}
 .promo2 {font-size: 45px; line-height: 50px;}
 .promo2 em {font-weight: 600; font-style: normal;}
 .promo3 {font-size: 30px; line-height: 40px;color: #FFFFFF;}

@@ -20,7 +20,7 @@
 
 /* RokSprocket - Feature - Showcase */
 .layout-showcase .sprocket-features-title, .layout-showcase .sprocket-features-desc {text-shadow: 1px 1px 1px rgba(255,255,255,0.9);}
-.layout-showcase .sprocket-features-title a {color: #FFFFFF; font-family: 'PT Sans',waltographUI,Helvetica,Arial,sans-serif;text-shadow: 1px 20px 70px rgba(5, 5, 5, 0.9);}
+.layout-showcase .sprocket-features-title a {color: #FFFFFF; font-family: 'waltographUI',Helvetica,Arial,sans-serif;text-shadow: 1px 20px 70px rgba(5, 5, 5, 0.9);}
 .layout-showcase .sprocket-features-content {color: #FFFFFF;}
 .layout-showcase .sprocket-features-arrows .arrow {background-color: #F1E4D4;background-image: url(../images/food-a/title-overlay.png);color: #B40E11;border: 1px solid rgba(0,0,0,0.35);}
 .layout-showcase .sprocket-features-arrows .arrow.next {box-shadow: 1px 1px 3px rgba(0,0,0,0.2);}
